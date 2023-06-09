@@ -1,0 +1,1 @@
+This is my first mini project that I wrote after one month of learning python, enter a number and it returns you a number in Uzbek in Latin
